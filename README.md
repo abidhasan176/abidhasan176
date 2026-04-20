@@ -1,52 +1,45 @@
-<div>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=2500&pause=400&center=true&vCenter=true&multiline=true&width=850&height=200&lines=Hi;I'm+Abid+Hasan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=46&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Abid+Hasan;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 </div>
+<h2 align="center">🌐 Connect with Me</h2>
 
-## 💬 Connect with Me
 <p align="center">
-    <a href="https://linkedin.com/in/abid-prodhan-5b6851332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abid-prodhan-5b6851332" height="50" width="50" /></a>
-<a href="https://fb.com/abid.prodhan.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abid.prodhan.18" height="50" width="50" /></a>
-<a href="https://instagram.com/abid_prodhan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abid_prodhan_" height="50" width="50" /></a>
-<a href="https://www.youtube.com/c/@abidhasan176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abidhasan176" height="50" width="50" /></a>
-<a href="https://codeforces.com/profile/abid_prodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abid_prodhan" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/abid_hasan_prodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abid_hasan_prodhan" height="50" width="50" /></a>
-<a href="/https://sites.google.com/view/md-abid-hasan-prodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sites.google.com/view/md-abid-hasan-prodhan" height="50" width="50" /></a>
+  <a href="https://linkedin.com/in/abid-prodhan-5b6851332">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+  
+  <a href="https://fb.com/abid.prodhan.18">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40"/>
+  </a>
+  
+  <a href="https://instagram.com/abid_prodhan_">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40"/>
+  </a>
+  
+  <a href="https://www.youtube.com/c/@abidhasan176">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40"/>
+  </a>
+  
+  <a href="https://codeforces.com/profile/abid_prodhan">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="40"/>
+  </a>
+  
+  <a href="https://www.leetcode.com/abid_hasan_prodhan">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+  </a>
+  
+  <a href="https://sites.google.com/view/md-abid-hasan-prodhan">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="40"/>
+  </a>
 </p>
 
-## 💻 Languages and Tools
-<p align="center"> 
-    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="anaconda" width="50" height="50"/> </a> 
-    <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="android" width="50" height="50"/> </a> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="arduino" width="50" height="50"/> </a> 
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="bootstrap" width="50" height="50"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="c" width="50" height="50"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="cplusplus" width="50" height="50"/> </a> 
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="csharp" width="50" height="50"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="css3" width="50" height="50"/> </a> 
-    <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="dart" width="50" height="50"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="docker" width="50" height="50"/> </a> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="dotnet" width="50" height="50"/> </a> 
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/FastAPI.svg" alt="fastapi" width="50" height="50"/> </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="figma" width="50" height="50"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="firebase" width="50" height="50"/> </a> 
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="flutter" width="50" height="50"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="git" width="50" height="50"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="html" width="50" height="50"/> </a> 
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="java" width="50" height="50"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="javascript" width="50" height="50"/> </a> 
-    <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=latex&theme=dark" alt="latex" width="50" height="50"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="linux" width="50" height="50"/> </a> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="matlab" width="50" height="50"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="mysql" width="50" height="50"/> </a> 
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="opencv" width="50" height="50"/> </a> 
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="photoshop" width="50" height="50"/> </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="php" width="50" height="50"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="postman" width="50" height="50"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="python" width="50" height="50"/> </a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="pytorch" width="50" height="50"/> </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit_learn" width="50" height="50"/> </a> 
+
+<h2 align="center">💻 Languages and Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,bootstrap,c,cpp,cs,css,dart,docker,dotnet,figma,firebase,flutter,git,html,java,js,latex,linux,matlab,mysql,opencv,php,postman,py,pytorch,sklearn&theme=dark" />
 </p>
 
 ## 📊 Github Stats
