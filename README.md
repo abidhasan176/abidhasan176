@@ -6,7 +6,7 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abid-prodhan-5b6851332">
+  <a href="www.linkedin.com/in/md-abid-hasan-prodhan-5b6851332">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
   
